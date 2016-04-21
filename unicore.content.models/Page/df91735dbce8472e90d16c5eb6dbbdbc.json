@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Fanya jaribio letu kuona jinsi ulivyo bora kwa pesa!", 
+  "language": "swa_TZ", 
+  "title": " Wewe ni mweka akiba hodari?", 
+  "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+  "created_at": "2016-04-21T09:38:55.470605+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-21T09:38:55.470853+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Jibu maswali haya manane kuona ikiwa wewe ni mtumiaji mbaya \u2013 au mweka akiba bora.\r\n \r\n1.  Ukipata pesa za sikukuu yako, wewe ...\r\nA) Huzitumia mara moja kufurahia na marafiki.\r\nB) Huziweka katika akaunti yako ya benki au kuziweka mahali mbali salama ambapo hakuna atayakezipata. \r\n \r\n2. Uko sokoni na una tu hela ambazo umeweka akiba mwezi huu unapoona shati ambalo umekuwa ukilitafuta limepunguzwa bei. Utafanya nini?\r\nA) Nitalinunua. Isitoshe, akiba zipo hapo ili zitumike!\r\nB) Nitakubaliana na mwenye duka na nipate hata bei nafuu.\r\n \r\n3. Wewe hufanya maamuzi kuhusu matumizi kulingana na...\r\nA) Hisia zako. Ukiwa umehuzunika, hakuna kinachofurahisha kuliko kujikumbuka kidogo.\r\nB) Mipango uliyofanya ya jinsi unavyotaka kutumia pesa siku za usoni.  \r\n \r\n4. Kwako, pesa zinamaanisha...\r\nA) Starehe na raha.\r\nB) Kuwa na maisha thabiti ya siku za usoni.\r\n \r\n5. Ukiwa na sarafu nyingi kwenye mfuko wako wa fedha, \u2026\r\nA) Unazitumia \u2013 si nyingi.\r\nB) Unaziongeza kwenye akiba zako \u2013 kidogo kidogo hujaza kibaba.\r\n \r\n6. Mara nyingi marafiki au wanafamilia wanakudai pesa?\r\nA) Mara nyingi \u2013 kuomba pesa si jambo kubwa.\r\nB) Sio mara nyingi \u2013 Sipendi kudaiwa pesa na watu.\r\n \r\n7. Je, unafuatilia jinsi unavyotumia pesa zako, kwa kuandika ununuzi au kuweka stakabadhi?\r\nA) La.\r\nB) Ndiyo.\r\n \r\n8. Utafanya nini?\r\nA) Kutumia sasa, kuweka akiba baadaye.\r\nB) Weka akiba sasa, tumia pesa baadaye.\r\n \r\nSasa jumlisha ni mara ngapi ulijibu A na ni mara ngapi ulijibu B. Bofya hapa uone majibu yako \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-you-super-saver", 
+  "uuid": "df91735dbce8472e90d16c5eb6dbbdbc"
+}
